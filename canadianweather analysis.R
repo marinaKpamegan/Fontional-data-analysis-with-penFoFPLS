@@ -1,5 +1,5 @@
 library(devtools)
-load_all("C:/Users/Evidya/Downloads/penFoFPLS-master/penFoFPLS-master") # à modifier selon la localisation de votre dossier penFo
+load_all("C:/Users/Evidya/Documents/cours M1/initiation à la recherche/penFoFPLS-master/penFoFPLS-master") # à modifier selon la localisation de votre dossier penFo
 library(fda)
 library(ggplot2)
 library(caret)
